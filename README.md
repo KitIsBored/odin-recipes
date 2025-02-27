@@ -1,0 +1,1 @@
+A simple recipe website demonstrating the developer's basic HTML skills.
